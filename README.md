@@ -2,10 +2,11 @@
 
 ## Objective
 
+Create a React application with a Toolbar component that contains multiple AlertButton components. Each button should display a unique alert message when clicked, demonstrating the use of props and event handlers in React.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
+## To start with
 In the project directory, you can run:
 
 ### `npm start`
